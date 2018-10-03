@@ -1,0 +1,40 @@
+03-Oct-2018 08:11:54.823 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.29
+03-Oct-2018 08:11:54.825 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 20 2015 09:18:00 UTC
+03-Oct-2018 08:11:54.825 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.29.0
+03-Oct-2018 08:11:54.825 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+03-Oct-2018 08:11:54.825 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.10.4
+03-Oct-2018 08:11:54.825 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+03-Oct-2018 08:11:54.825 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre
+03-Oct-2018 08:11:54.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_65-b17
+03-Oct-2018 08:11:54.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+03-Oct-2018 08:11:54.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/Prachi/Desktop/Details/softwares/apache-tomcat-8.0.29
+03-Oct-2018 08:11:54.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/Prachi/Desktop/Details/softwares/apache-tomcat-8.0.29
+03-Oct-2018 08:11:54.827 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/Prachi/Desktop/Details/softwares/apache-tomcat-8.0.29/conf/logging.properties
+03-Oct-2018 08:11:54.827 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+03-Oct-2018 08:11:54.827 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=/Users/Prachi/Desktop/Details/softwares/apache-tomcat-8.0.29/endorsed
+03-Oct-2018 08:11:54.827 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/Prachi/Desktop/Details/softwares/apache-tomcat-8.0.29
+03-Oct-2018 08:11:54.827 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/Prachi/Desktop/Details/softwares/apache-tomcat-8.0.29
+03-Oct-2018 08:11:54.827 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/Prachi/Desktop/Details/softwares/apache-tomcat-8.0.29/temp
+03-Oct-2018 08:11:54.828 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/Prachi/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+03-Oct-2018 08:11:55.012 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+03-Oct-2018 08:11:55.054 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+03-Oct-2018 08:11:55.060 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+03-Oct-2018 08:11:55.062 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+03-Oct-2018 08:11:55.062 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 699 ms
+03-Oct-2018 08:11:55.096 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+03-Oct-2018 08:11:55.096 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.29
+03-Oct-2018 08:11:55.106 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/Prachi/Desktop/Details/softwares/apache-tomcat-8.0.29/webapps/CodaemonSearch
+03-Oct-2018 08:11:55.494 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/Prachi/Desktop/Details/softwares/apache-tomcat-8.0.29/webapps/CodaemonSearch has finished in 387 ms
+03-Oct-2018 08:11:55.494 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/Prachi/Desktop/Details/softwares/apache-tomcat-8.0.29/webapps/docs
+03-Oct-2018 08:11:55.528 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/Prachi/Desktop/Details/softwares/apache-tomcat-8.0.29/webapps/docs has finished in 33 ms
+03-Oct-2018 08:11:55.528 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/Prachi/Desktop/Details/softwares/apache-tomcat-8.0.29/webapps/examples
+03-Oct-2018 08:11:56.238 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/Prachi/Desktop/Details/softwares/apache-tomcat-8.0.29/webapps/examples has finished in 710 ms
+03-Oct-2018 08:11:56.240 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/Prachi/Desktop/Details/softwares/apache-tomcat-8.0.29/webapps/host-manager
+03-Oct-2018 08:11:56.286 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/Prachi/Desktop/Details/softwares/apache-tomcat-8.0.29/webapps/host-manager has finished in 46 ms
+03-Oct-2018 08:11:56.286 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/Prachi/Desktop/Details/softwares/apache-tomcat-8.0.29/webapps/manager
+03-Oct-2018 08:11:56.342 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/Prachi/Desktop/Details/softwares/apache-tomcat-8.0.29/webapps/manager has finished in 56 ms
+03-Oct-2018 08:11:56.343 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory /Users/Prachi/Desktop/Details/softwares/apache-tomcat-8.0.29/webapps/ROOT
+03-Oct-2018 08:11:56.368 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory /Users/Prachi/Desktop/Details/softwares/apache-tomcat-8.0.29/webapps/ROOT has finished in 25 ms
+03-Oct-2018 08:11:56.374 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+03-Oct-2018 08:11:56.382 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+03-Oct-2018 08:11:56.382 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1319 ms
